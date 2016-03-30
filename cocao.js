@@ -17,8 +17,10 @@ console.log('cocao.js loaded');
     }
     
     subButton.onclick=function(){
-        
-        alert("Thank you, I like that too.");
+         
+        var x = parseInt(fibLength.value)
+         
+        alert("Thank you, I like" + x +"% too.");
     }
      
 })()
