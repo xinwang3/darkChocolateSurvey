@@ -1,7 +1,7 @@
 console.log('chocolate.js loaded')
 
 <h3 style="color:navy">Dark Chocolate servey</h3>
-<h4 style="color:navy">What % Cocao do you like the most:/h4>
+<h4 style="color:navy">What % Cocao do you like the most:</h4>
 
     Status API Training Shop Blog About 
 
