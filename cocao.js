@@ -15,5 +15,10 @@ console.log('cocao.js loaded');
         dv.innerHTML = h
         document.body.appendChild(dv)
     }
+    
+    fibButton.onclick=function(){
+        var x = parseInt(cocaopct.value)
+        alarm("Thank you, I like that too.")
+    }
      
 })()
