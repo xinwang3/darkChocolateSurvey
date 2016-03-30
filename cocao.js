@@ -16,7 +16,7 @@ console.log('cocao.js loaded');
         document.body.appendChild(dv)
     }
     
-    fibButton.onclick=function(){
+    subButton.onclick=function(){
         
         alert("Thank you, I like that too.");
     }
