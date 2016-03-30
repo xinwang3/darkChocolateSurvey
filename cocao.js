@@ -17,8 +17,8 @@ console.log('cocao.js loaded');
     }
     
     fibButton.onclick=function(){
-        var x = parseInt(cocaopct.value)
-        alert("Thank you, I like that too.")
+        
+        alert("Thank you, I like that too.");
     }
      
 })()
