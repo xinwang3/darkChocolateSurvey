@@ -6,8 +6,7 @@ console.log('cocao.js loaded');
     h += 'What % of cocao do you like the most: <input id="cocaopct" size=4 value="70"> <br> '
     h += '<button id="subButton" type="button" >submit</button> '
     
-    cocaopct.style.color="blue"
-    cocaopct.style.border=10
+     
     
     if(typeof(sbmApps)=='function'){ // if sbmApps library was loaded
         sbmApps.render(h)
