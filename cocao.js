@@ -3,9 +3,9 @@ console.log('cocao.js loaded');
 (function(){ // wrapping everything within an annonymous function
     var h = '<h3 style="color:brown">Dark Chocolate Survey</h3>'
     
-    h += 'What % of cocao do you like the most: <input id="cocaopct" size=4 value="70"> '
-    h += '<button id="subButton" type="button" class="btn btn-primary">submit</button> '
-    h +='<button id="fibButton" type="button" class="btn btn-primary">Generate</button> '
+    h += 'What % of cocao do you like the most: <input id="cocaopct" size=4 value="70"> <br> '
+    h += '<button id="subButton" type="button" >submit</button> '
+    
     
     if(typeof(sbmApps)=='function'){ // if sbmApps library was loaded
         sbmApps.render(h)
