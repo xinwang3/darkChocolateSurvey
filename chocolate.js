@@ -1,5 +1,8 @@
 console.log('chocolate.js loaded')
 
+<h3 style="color:navy">Dark Chocolate servey</h3>
+<h4 style="color:navy">What % Cocao do you like the most:/h4>
+
 false||(function(){ // wrapping everything within an annonymous function
     var h = '<h3 style="color:navy">Dark Chocolate servey</h3>'
     h += ' <h4 style="color:navy">What % Cocao do you like the most:/h3>'
