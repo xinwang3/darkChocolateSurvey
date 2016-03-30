@@ -1,6 +1,6 @@
 {
     "name":"chocolateSurvey",
-    "description":"Try to see what % of cocao is the most favorite",
+    "description":"Try to see what % of cocoa is the most favorite",
     "icon":"http://myfulllifenutrition.com/wp-content/uploads/2014/02/Dark-Chocolate.jpg",
-    "onclick":"https://xinwang3.github.io/testapp/cocao.js"
+    "onclick":"https://xinwang3.github.io/darkChocolateSurvey/cocao.js"
 }
