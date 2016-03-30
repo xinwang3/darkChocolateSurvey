@@ -23,7 +23,7 @@ console.log('cocao.js loaded');
             alert( "Thank you, isn't that too dark!")
         }
         else{
-            alert("Thank you, I like " + x +"% too.");
+            alert("Thank you, I like " + x +" %  toofff.");
         }
     }
      
