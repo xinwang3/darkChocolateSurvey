@@ -20,10 +20,10 @@ console.log('cocao.js loaded');
          
         var x = parseInt(cocaoPct.value)
         if (x >=85) {
-            alert( "Thank you, isn't that too dark!")
+            alert( "Thank you, isn't " + x +" %  too dark!")
         }
         else{
-            alert("Thank you, I like " + x +" %  toofff.");
+            alert("Thank you, I like " + x +" %  too.");
         }
     }
      
