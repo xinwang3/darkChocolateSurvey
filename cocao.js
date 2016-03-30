@@ -3,7 +3,7 @@ console.log('cocao.js loaded');
 (function(){ // wrapping everything within an annonymous function
     var h = '<h3 style="color:brown">Dark Chocolate Survey</h3>'
     
-    h += 'What % of cocao do you like the most: <input id="cocaoPct" size=4 value="70"> <br> '
+    h += 'What % of cocoa do you like the most: <input id="cocaoPct" size=4 value="70"> <br> '
     h += '<button id="subButton" type="button" >submit</button> '
     
      
