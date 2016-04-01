@@ -19,7 +19,7 @@ console.log('cocao.js loaded');
     subButton.onclick=function(){
          
         var x = parseInt(cocaoPct.value)
-        if (x >=85) {
+        if (x >=87) {
             alert( "Thank you, isn't " + x +" %  too dark!")
         }
         else{
